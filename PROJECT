@@ -1,0 +1,7 @@
+domain: tutorial.mokualabs.com
+repo: tutorial.mokualabs.com/m
+resources:
+- group: batch
+  kind: CronJob
+  version: v1
+version: "2"
